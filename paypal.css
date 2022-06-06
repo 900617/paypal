@@ -1,0 +1,418 @@
+a{
+    margin:10px;
+    padding:10px;
+    text-decoration: none;
+    display:inline;
+
+}
+h1{
+    color:blue;
+    display:inline-block;
+    font-weight: bold;
+    font-size: 30px;
+    font-style: italic;
+}
+i{
+    color:blue;
+    font-size: 50px;
+    margin-left: 400px;
+}
+.header{
+    color:cyan;
+    display:inline-block;
+}
+.btn-danger{
+    background-color: whitesmoke;
+    margin-block-end: 10px;
+    border-radius: 20px;
+    border-color: blue;
+    color:blue;
+    width: 100px;
+}
+.btn-primary{
+    margin-block-end: 10px;
+    border-radius: 20px;
+    width: 100px;
+}
+.alert-warning{
+    background-color:lightcyan;
+    text-align: center;
+    font-size: 30px;
+    color: #000;
+    font-weight:bold;
+}
+.btn-white{
+    
+    background-color: whitesmoke;
+    margin-block-end: 10px;
+    border-radius: 20px;
+    border-color: blue;
+    color:blue;
+    width: 400px;
+    font-weight:bold;
+}
+.paypal.mp4{
+    width:auto;
+    height: 50px;
+    position: fixed;
+}
+
+   .alert-success{
+    color:whitesmoke;
+    background-color: darkblue;
+    margin:0px;
+}
+.btn-dark{
+    
+    background-color: whitesmoke;
+    margin-block-end: 10px;
+    border-radius: 20px;
+    border-color: blue;
+    color:#000;
+}
+/* .............first para starting.......... */
+.box-1{
+    /* border:10px solid red; */
+    height:300px;
+    display: flex;
+    flex-direction: row;
+justify-content: space-between;
+
+}
+.left-box{
+    /* border:10px solid pink; */
+    height:280px;
+    width:45%;
+
+}
+.header-1{
+    /* border:10px solid green; */
+    margin-left: 20%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-size: 40px;
+    font-weight: bold;
+    font-style: normal;
+    color: skyblue;
+}
+.para-1{
+    /* border:10px solid blue; */
+    margin-left: 20%;
+    margin-top: 10px;
+   
+    margin-bottom: 10px;
+    font-size: 15px;
+;
+    font-style: normal;
+    color:black;
+}
+.btn-shopnow{
+    border:1px solid blue;
+    margin-left: 20%;
+    margin-top: 10px;;
+    margin-bottom:10px;
+    width:300px;
+    height:50px;
+    border-radius: 20px;
+    color:blue;
+    
+}
+.right-box{
+    /* border:10px solid yellow; */
+     height:280px;
+     width:45%;
+     display:flex;
+     /* justify-content:center; */
+}
+.globe{
+    /* border:10px solid pink; */
+    width:25%;
+    height:230px;
+    /* text-align: center; */
+    margin-left: 20px;
+    margin-top: 10px;
+
+}
+/* ...........second para starting.......... */
+.box-2{
+    /* border:10px solid green; */
+    height:350px;
+    display: flex;
+    flex-direction: row;
+justify-content: space-between;
+margin-top: 30px;
+
+}
+.left-box1{
+    /* border:10px solid yellow; */
+    width:45%;
+    height: 350px;
+    margin-left: 80px;
+
+}
+
+.right-box1{
+    /* border:10px solid pink; */
+    width:45%;
+    height:350px;
+   
+
+} 
+.header-2{
+    /* border:10px solid blue; */
+    /* margin-left: 20%; */
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-size: 40px;
+    font-weight: bold;
+    font-style: normal;
+    color: skyblue;
+
+}
+.para-2{
+    /* border:10px solid orange; */
+    /* margin-left: 20%; */
+    margin-top: 10px;
+   
+    margin-bottom: 10px;
+    font-size: 15px;
+;
+    font-style: normal;
+    color:black;
+
+}
+.btn-check-out-with-one-touch{
+    
+    border:1px solid blue;
+    /* margin-left: 20%; */
+    margin-top: 10px;;
+    margin-bottom:10px;
+    width:300px;
+    height:50px;
+    border-radius: 20px;
+    color:blue;
+
+}
+/* ............third para starting.......... */
+.box-3{
+    /* border:10px solid blue; */
+    height:350px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+
+}
+.left-box3{
+    /* border:10px solid green; */
+    width:45%;
+    height:280px;
+
+}
+.header-3{
+     /* border:10px solid green; */
+     margin-left: 20%;
+     margin-top: 10px;
+     margin-bottom: 10px;
+     font-size: 40px;
+     font-weight: bold;
+     font-style: normal;
+     color: skyblue;
+
+}
+.para-3{
+    /* border:10px solid grey; */
+    margin-top: 10px;
+     margin-left: 20%;
+   
+    margin-bottom: 10px;
+    font-size: 15px;
+;
+    font-style: normal;
+    color:black
+
+}
+.btn-Learn-More{
+    border:1px solid blue;
+    margin-left: 20%;
+    margin-top: 10px;;
+    margin-bottom:10px;
+    width:300px;
+    height:50px;
+    border-radius: 20px;
+    color:blue;
+
+}
+.right-box3{
+    /* border:10px solid red; */
+    width:45%;
+    height:280px;
+
+}
+/* .....fourth para starting........... */
+.box-4{
+    /* border:10px solid yellow; */
+    height:300px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+
+
+}
+.left-box4{
+    /* border:10px solid grey; */
+    height:280px;
+    width:45%;
+
+}
+.phone-img{
+    width:30%;
+    height:250px;
+    margin-left: 20%;
+}
+.right-box4{
+    /* border:10px solid red; */
+    height:280px;
+    width:45%;
+
+}
+.header-4{
+     /* border:10px solid blue; */
+    /* margin-left: 20%; */
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-size: 40px;
+    font-weight: bold;
+    font-style: normal;
+    color: skyblue;
+    
+
+
+}
+.para-4{
+     /* border:10px solid orange; */
+    /* margin-left: 20%; */
+    margin-top: 10px;
+   
+    margin-bottom: 10px;
+    font-size: 15px;
+;
+    font-style: normal;
+    color:black;
+
+}
+.btn-Link-Your-preffered-card{
+    border:1px solid blue;
+    /* margin-left: 20%; */
+    margin-top: 10px;;
+    margin-bottom:10px;
+    width:300px;
+    height:50px;
+    border-radius: 20px;
+    color:blue;
+
+}
+/* .............fifth para starting........... */
+.box-5{
+    /* border:10px solid yellow; */
+    height:350px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 30px;
+
+}
+.left-box5{
+    /* border:10px solid green; */
+    width:45%;
+    height:320px;
+
+}
+.header-5{
+    /* border:10px solid pink; */
+    margin-left: 20%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-size: 40px;
+    font-weight: bold;
+    font-style: normal;
+    color: skyblue;
+
+}
+.para-5{
+    /* border:10px solid red; */
+    margin-top: 10px;
+    margin-left: 20%;
+  
+   margin-bottom: 10px;
+   font-size: 15px;
+;
+   font-style: normal;
+   color:black
+
+}
+.btn-Find-out-More{
+    border:1px solid blue;
+    margin-left: 20%;
+    margin-top: 10px;;
+    margin-bottom:10px;
+    width:300px;
+    height:50px;
+    border-radius: 20px;
+    color:blue;
+
+}
+.right-box{
+
+    /* border:10px solid yellow; */
+    width:45%;
+    height:320px;
+}
+   
+.heading5{
+    font-size: 40px;
+    color:blue;
+    text-align: center;
+}
+.heading6 {
+    text-align: center;
+    size:20px;
+}
+.heading7{
+    background-color: blue;
+    text-align: center;
+    font-size: 40px;
+    color:#fff;
+}
+.heading8{
+    font-size: 15px;
+    color:#000;
+    margin-left: 200px;
+    font-weight: bold;
+}
+.heading9{
+    text-decoration: none;
+    display: inline;
+    margin-left: 200px;
+    font-size: 15px;
+    border-bottom:1px solid black;
+}
+.heading10{
+    text-decoration: none;
+    display: inline;
+    margin-left: 200px;
+    font: size 15px;
+}
+.heading11,.heading12{
+    font-size:15px ;
+    margin-left: 200px;
+    color:black;
+    font: style 10px;;
+}
+.heading15{
+    margin-left: 20%;
+}
+
+
+
+
+
